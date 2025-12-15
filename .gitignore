@@ -1,0 +1,45 @@
+# =========================
+# ENTORNO VIRTUAL
+# =========================
+venv/
+.env/
+
+# =========================
+# JUPYTER NOTEBOOKS
+# =========================
+*.ipynb
+.ipynb_checkpoints/
+notebooks/
+data/notebooks/
+
+# =========================
+# DATOS CRUDOS Y TEMPORALES
+# =========================
+raw/
+data/raw/
+*.csv~
+
+# =========================
+# ARCHIVOS DE CACHÉ PYTHON
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# ARCHIVOS DEL SISTEMA
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# CONFIGURACIONES LOCALES
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# ARCHIVOS DE PRUEBA
+# =========================
+test_streamlit.py

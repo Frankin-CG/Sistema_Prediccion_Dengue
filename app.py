@@ -54,7 +54,7 @@ df = cargar_datos()
 st.title("🦟 Sistema Inteligente de Alerta Temprana de Dengue")
 
 st.markdown("""
-**Curso:** Uso de Tecnologías Emergentes en la Construcción de Sistemas Sociotécnicos  
+**Curso:** Taller de Ingeniería de Sistemas - UNSCH  
 **Tecnologías:** Machine Learning · Series Temporales · Streamlit  
 **Fuente de datos:** Ministerio de Salud del Perú (MINSA)
 
